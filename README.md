@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @lightcompass
 - 👀 I’m interested in software engineering and machine learning
 - 🌱 I’m currently learning data engineering
-
-Contribution
-@Common Voice th
+- Contribution @CommonVoice th
 
 <!---
 lightcompass/lightcompass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
