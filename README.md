@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning data engineering
 - Contribution @CommonVoice th
 
-Currently @BKK, BP is CNX.
+My garage is located in CNX.
+Currently @BKK
 
 <!---
 lightcompass/lightcompass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
