@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data engineering
 - Contribution @CommonVoice th
 
-My garage is located in CNX.
+CNX is BP.
 Currently @BKK
 
 <!---
