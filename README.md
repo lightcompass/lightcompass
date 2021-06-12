@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lightcompass, Thai software developer.
+- 👋 Hi, I’m @lightcompass, Thai software developer mostly WordPress.
 - 👀 I’m interested in software engineering and machine learning
 - 🌱 I’m currently learning data engineering
 - Contribution @CommonVoice th
