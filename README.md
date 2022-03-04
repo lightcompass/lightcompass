@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lightcompass, Thai software developer mostly WordPress.
+- 👋 Hi, I’m @lightcompass, Thai software developer mostly working on WordPress.
 - 👀 I’m interested in software engineering and machine learning
-- 🌱 I’m currently learning MERN Stack
-- Contribution @CommonVoice th
+- 🌱 I’m currently learning MERN, MEAN Stack.
+- Contribution @CommonVoice TH
 
 CNX is BP.
 Currently @BKK
